@@ -1,0 +1,16 @@
+.header {
+    align-items: center;
+    background-color: white;
+    flex-direction: row;
+    display: flex;
+    height: 50px;
+    justify-content: center;
+    overflow: hidden;
+    position: fixed;
+    top: 0;
+    width: 100%;
+}
+
+.weathernowLogo {
+    height: 22px;
+}
